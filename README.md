@@ -1,4 +1,4 @@
-# How-to-Build-LangChain-Agents
+# How to Build an Advanced RAG System using LangChain
 
 ## Overview
 - Learn to build an AI-powered retrieval-based question-answering (QA) system.
